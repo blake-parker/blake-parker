@@ -20,7 +20,7 @@ I have always loved technology. As a child I played far too many video games for
 
 ### 💻Some things I've worked on
 
-* [tutoConnect](): A simple react web app created for CSC 4330. Essentially a social hub for students and tutors to connect.
+* [tutoConnect](https://github.com/blake-parker/tutoconnect): A simple react web app created for CSC 4330. Essentially a social hub for students and tutors to connect.
 
 This section is heavily a work in progress and intended to be updated.
 
