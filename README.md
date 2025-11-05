@@ -1,6 +1,8 @@
 # 👻Blake Parker
 
-My name is Blake Parker. I am currently a senior pursuing a degree in Computer Science/Software Engineering at Louisiana State University.
+My name is Blake Parker. I am a LSU graduate with a B.S. in Computer Science with a concentration in Software Engineering.
+
+While my interests have switched to be more Cybersecurity focused as of late, I still take great joy in automation and scripting.
 
 I have always loved technology. As a child I played far too many video games for my own good and had countless online interactions. Though possibly toxic, these interactions shaped me as a person and my interest in Computer Science sprouted from wanting to give back and provide the same experiences for countless others.
 
